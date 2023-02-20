@@ -16,5 +16,5 @@
 - go to ```{project_directory}/{project_folder}/settings.py``` and change ```DATABASES``` config to your own configuration
 
 ### Migrate:
-```python manage.py makemigrations``` To make migration of new changes
-```python manage.py migrate``` To apply latest migration on DB
+- ```python manage.py makemigrations``` To make migration of new changes
+- ```python manage.py migrate``` To apply latest migration on DB
